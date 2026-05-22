@@ -264,6 +264,10 @@ main,
     0 10px 40px rgba(0,0,0,0.5);
 }
 
+.span {
+   color: #e2bc7e;
+}
+
 .hero-text{
     max-width:600px;
 
